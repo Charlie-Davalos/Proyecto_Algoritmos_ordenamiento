@@ -1,0 +1,30 @@
+Juan,25,Ciudad de México
+Ana,30,Guadalajara
+Carlos,22,Monterrey
+Sofía,28,Puebla
+Pedro,35,Tijuana
+Laura,29,León
+Luis,27,Toluca
+Mariana,31,Cancún
+José,24,Mérida
+Valeria,26,Querétaro
+María,25,Ciudad de México
+Andrés,30,Guadalajara
+Camila,22,Monterrey
+Javier,28,Puebla
+Luciana,35,Tijuana
+Diego,29,León
+Valentina,31,Toluca
+Sofía,24,Cancún
+Carlos,26,Mérida
+Mariano,27,Querétaro
+Laura,28,Ciudad de México
+Ana,33,Guadalajara
+Diego,25,Monterrey
+Valeria,30,Puebla
+Juan,35,Tijuana
+Mariana,29,León
+José,31,Toluca
+Sofía,24,Cancún
+Carlos,26,Mérida
+Laura,27,Querétaro
