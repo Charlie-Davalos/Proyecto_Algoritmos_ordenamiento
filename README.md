@@ -1,9 +1,9 @@
 ## Descripción
 El código se probó utulizando el editor de texto en línea Repl.it
 
-Atividad integradora de Carlos Davalos. Aquí puedes encontar datos sobre las emisiones de cárbono que producen los países durante un año a lo largo de la historia. Tiene un tamaño de cuatro columnas (país, código del país, año y emisiones totales) y 20,853 entradas. El usuario puede imprimir en consola toda la tabla o una porción de ella ingresando un rango; puede ordenar la tabla o una porción de ella, en base a una de las cuatro variables disponibes (entidad, el código, año y emisiones totales); y buscar cualquier valor en la tabla.
+Actividad Integradora de Carlos Davalos: Este proyecto proporciona información sobre las emisiones de carbono de los países a lo largo del tiempo. La base de datos consta de cuatro columnas: país, código del país, año y emisiones totales, con un total de 20,853 entradas. Los usuarios pueden interactuar con la información de varias maneras, como imprimir toda la tabla o una porción de ella al ingresar un rango específico. También pueden ordenar la tabla o una sección específica basándose en cualquiera de las cuatro variables disponibles: entidad, código, año y emisiones totales. Además, tienen la capacidad de buscar cualquier valor dentro de la tabla.
 
-Los casos de prueba se encuentran en la opcion 5 del menú inicial.
+Los casos de prueba, que demuestran el funcionamiento del programa, se encuentran en la opción 5 del menú inicial.
 
 ## Estructura nueva
 
